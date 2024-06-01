@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+kings_pokeapi/__init__.py
+kings_pokeapi/kings_pokeapi.py
+kings_pokeapi.egg-info/PKG-INFO
+kings_pokeapi.egg-info/SOURCES.txt
+kings_pokeapi.egg-info/dependency_links.txt
+kings_pokeapi.egg-info/requires.txt
+kings_pokeapi.egg-info/top_level.txt

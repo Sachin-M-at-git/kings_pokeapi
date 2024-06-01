@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: kings-pokeapi
+Version: 0.1
+Summary: A package to scrape Pokemon data
+Home-page: https://github.com/Sachin-M-at-git/kings_pokeapi.git
+Author: K I N G
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# PokÃ©mon API
+
+A web API that scrapes PokÃ©mon data from the PokÃ©mon Database.
+
+## Disclaimer
+All content & design Â© PokÃ©mon Database, 2008-2024. PokÃ©mon images & names Â© 1995-2024 Nintendo/Game Freak. This project is not affiliated with or endorsed by Nintendo or Game Freak.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
